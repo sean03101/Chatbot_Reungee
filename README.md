@@ -103,7 +103,7 @@
 | ------ | ------ | ------ |
 | 권기호 | 프로젝트 관리 총괄 및 정기회의 일정 수립, 요구사항 정의 및 시스템 설계, DialogFlow Intent 학습, Back-End 개발, AWS 서버 구축 | [Github](https://github.com/Chocochip101), [Blog](https://chocochip101.tistory.com/), [Email](chocochip.dev@gmail.com) |
 | 남주연 | 프로젝트 방향성 설정, Database 구축과 DialogFlow Entity 설정 | [Github](https://github.com/NamJuYeon) |
-| 이성호 | 프로젝트 방향성 설정, Dialogflow Intent 학습, Front-End 개발과 디버깅 및 Database 관련 추천 시스템 정립 | [Github](https://github.com/sean03101) |
+| 이성호 | 요구사항 정의 및 시스템 설계, Dialogflow Intent 학습 및 Entity 설정, Line 메신저 API를 활용한 Front-End 개발과 디버깅, Ngrok을 활용한 서버 배포, Database 관련 맛집 추천 시스템 정립 | [Github](https://github.com/sean03101) |
 
 
 
